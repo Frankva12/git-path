@@ -1,0 +1,9 @@
+fix: patches a bug in your codebase
+feat: introduces a new feauture to the codebase
+build: it can be use when you compile the project
+chore: use it when you clean your code (not change the performance ex: check the spell of a word)
+docs: when you change the docs of the project
+perf: when you improve the performance of the project
+refactor: it can be use when you change the version of some technology
+style: when you change the esthetic of the project
+test: when you test the project 
