@@ -1,8 +1,172 @@
 {
-  "posts": [
+  "cars": [
     {
-      "id": 1,
-      "title": "hello"
+      "Name": "chevrolet chevelle malibu",
+      "Miles_per_Gallon": 18,
+      "Cylinders": 8,
+      "Displacement": 307,
+      "Horsepower": 130,
+      "Weight_in_lbs": 3504,
+      "Acceleration": 12,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://www.diariomotor.com/imagenes/picscache/750x/chevy-chevelle-307-4_750x.jpg"
+    },
+    {
+      "Name": "buick skylark 320",
+      "Miles_per_Gallon": 15,
+      "Cylinders": 8,
+      "Displacement": 350,
+      "Horsepower": 165,
+      "Weight_in_lbs": 3693,
+      "Acceleration": 11.5,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1972_Buick_Skylark_Front.jpg"
+    },
+    {
+      "Name": "plymouth satellite",
+      "Miles_per_Gallon": 18,
+      "Cylinders": 8,
+      "Displacement": 318,
+      "Horsepower": 150,
+      "Weight_in_lbs": 3436,
+      "Acceleration": 11,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/66Sat.jpg"
+    },
+    {
+      "Name": "amc rebel sst",
+      "Miles_per_Gallon": 16,
+      "Cylinders": 8,
+      "Displacement": 304,
+      "Horsepower": 150,
+      "Weight_in_lbs": 3433,
+      "Acceleration": 12,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://gomotors.net/photos/dc/6e/file1968-amc-rebel-sst-2doorhardtopwhitejpg_65885.jpg?i"
+    },
+    {
+      "Name": "ford torino",
+      "Miles_per_Gallon": 17,
+      "Cylinders": 8,
+      "Displacement": 302,
+      "Horsepower": 140,
+      "Weight_in_lbs": 3449,
+      "Acceleration": 10.5,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://autoencer.com/autoencer/autoencer/images/img-archivo/22034fcd-3540-44ba-b294-4e5adc13f39a.jpg"
+    },
+    {
+      "Name": "ford galaxie 500",
+      "Miles_per_Gallon": 15,
+      "Cylinders": 8,
+      "Displacement": 429,
+      "Horsepower": 198,
+      "Weight_in_lbs": 4341,
+      "Acceleration": 10,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://img.hmn.com/fit-in/900x506/filters:upscale()/stories/2018/08/613672.jpg"
+    },
+    {
+      "Name": "chevrolet impala",
+      "Miles_per_Gallon": 14,
+      "Cylinders": 8,
+      "Displacement": 454,
+      "Horsepower": 220,
+      "Weight_in_lbs": 4354,
+      "Acceleration": 9,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://amklassiek.nl/wp-content/uploads/2021/11/Toyota-Corona-Hardtop.jpg"
+    },
+    {
+      "Name": "plymouth fury iii",
+      "Miles_per_Gallon": 14,
+      "Cylinders": 8,
+      "Displacement": 440,
+      "Horsepower": 215,
+      "Weight_in_lbs": 4312,
+      "Acceleration": 8.5,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://bringatrailer.com/wp-content/uploads/2021/11/1973_dodge_colt-1600-custom-2-door-hard-top-series-1_DSC_3099.jpg?fit=940%2C627"
+    },
+    {
+      "Name": "pontiac catalina",
+      "Miles_per_Gallon": 14,
+      "Cylinders": 8,
+      "Displacement": 455,
+      "Horsepower": 225,
+      "Weight_in_lbs": 4425,
+      "Acceleration": 10,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://photos.encuentra24.com/t_or_fh_l/f_auto/v1/sv/21/58/61/77/21586177_59a54a"
+    },
+    {
+      "Name": "amc ambassador dpl",
+      "Miles_per_Gallon": 15,
+      "Cylinders": 8,
+      "Displacement": 390,
+      "Horsepower": 190,
+      "Weight_in_lbs": 3850,
+      "Acceleration": 8.5,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/76_Cosworth_Vega_2673.jpg/220px-76_Cosworth_Vega_2673.jpg"
+    },
+    {
+      "Name": "citroen ds-21 pallas",
+      "Miles_per_Gallon": null,
+      "Cylinders": 4,
+      "Displacement": 133,
+      "Horsepower": 115,
+      "Weight_in_lbs": 3090,
+      "Acceleration": 17.5,
+      "Year": "1970-01-01",
+      "Origin": "Europe",
+      "img": "https://bringatrailer.com/wp-content/uploads/2019/09/1978_ford_pinto_-_runabout_1570828026e7262919c9eb20190914_142823.jpg?fit=940%2C626"
+    },
+    {
+      "Name": "chevrolet chevelle concours (sw)",
+      "Miles_per_Gallon": null,
+      "Cylinders": 8,
+      "Displacement": 350,
+      "Horsepower": 165,
+      "Weight_in_lbs": 4142,
+      "Acceleration": 11.5,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/1967_Chevrolet_Impala_4_door_Hardtop.jpg"
+    },
+    {
+      "Name": "ford torino (sw)",
+      "Miles_per_Gallon": null,
+      "Cylinders": 8,
+      "Displacement": 351,
+      "Horsepower": 153,
+      "Weight_in_lbs": 4034,
+      "Acceleration": 11,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://gomotors.net/photos/dc/6e/file1968-amc-rebel-sst-2doorhardtopwhitejpg_65885.jpg?i"
+    },
+    {
+      "Name": "plymouth satellite (sw)",
+      "Miles_per_Gallon": null,
+      "Cylinders": 8,
+      "Displacement": 383,
+      "Horsepower": 175,
+      "Weight_in_lbs": 4166,
+      "Acceleration": 10.5,
+      "Year": "1970-01-01",
+      "Origin": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pontiac_Catalina_convertible.jpg/220px-Pontiac_Catalina_convertible.jpg"
     }
   ],
   "profile": {
