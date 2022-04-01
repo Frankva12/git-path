@@ -1,5 +1,5 @@
 {
-  "cars": "cars":[
+  "cars":[
     {
       "Name": "chevrolet chevelle malibu",
       "Miles_per_Gallon": 18,
@@ -168,8 +168,5 @@
       "Origin": "USA",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pontiac_Catalina_convertible.jpg/220px-Pontiac_Catalina_convertible.jpg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
